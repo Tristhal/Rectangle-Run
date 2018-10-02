@@ -8,7 +8,7 @@ elif x.upper()=="NO":
     print("Too bad!")
 
 gamemode=int(input("Lenght "))
-
+I want a free shirt for hacktoberfest. Disregard
 running=True
 screen = display.set_mode((1920, 1000))
 x=0
